@@ -1,0 +1,5 @@
+Model: GPT-6 Astra
+Thinking Effort: High
+
+Token used: 102.3 credits
+Time Spend: 3m13s

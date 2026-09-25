@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title description">
+  <title id="title">Pelican riding a bicycle</title>
+  <desc id="description">A cheerful white pelican with an orange bill rides a teal bicycle beneath a sunny sky.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop offset="0" stop-color="#dff5f1"/>
+      <stop offset="1" stop-color="#f7f5df"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="670" cy="105" r="43" fill="#f6c85f"/>
+  <path d="M0 478 Q180 451 355 476 T800 466 V600 H0Z" fill="#c8df9b"/>
+  <path d="M0 516 Q190 492 390 516 T800 505" fill="none" stroke="#a7c878" stroke-width="5" opacity=".7"/>
+
+  <g fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".8">
+    <path d="M112 127h77m-60-20h55"/>
+    <path d="M565 187h62m-43-18h48"/>
+  </g>
+
+  <g aria-label="Bicycle">
+    <g fill="#e9f2e6" stroke="#31565a" stroke-width="11">
+      <circle cx="270" cy="420" r="88"/>
+      <circle cx="560" cy="420" r="88"/>
+    </g>
+    <g stroke="#8eaaa1" stroke-width="3" opacity=".8">
+      <path d="M270 332v176M182 420h176M208 358l124 124m0-124L208 482"/>
+      <path d="M560 332v176M472 420h176M498 358l124 124m0-124L498 482"/>
+    </g>
+    <g fill="none" stroke="#e66b45" stroke-width="12" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M270 420 355 306 420 420 270 420M355 306h154l-89 114M509 306l51 114"/>
+    </g>
+    <path d="M337 298h44" stroke="#31565a" stroke-width="12" stroke-linecap="round"/>
+    <path d="M493 293l20 13 21-25" fill="none" stroke="#31565a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="420" cy="420" r="14" fill="#f6c85f" stroke="#31565a" stroke-width="6"/>
+    <path d="M420 420l25-19m-25 19-24 20" stroke="#31565a" stroke-width="7" stroke-linecap="round"/>
+    <path d="M438 396h23m-61 34h-23" stroke="#31565a" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g aria-label="Pelican">
+    <path d="M382 273Q366 326 398 400" fill="none" stroke="#e9a83d" stroke-width="13" stroke-linecap="round"/>
+    <path d="M429 270Q451 321 444 393" fill="none" stroke="#e9a83d" stroke-width="13" stroke-linecap="round"/>
+    <path d="M388 398q-15 5-22 18l34 1m41-25q15 2 25 15l-33 7" fill="none" stroke="#e66b45" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M344 236Q345 192 402 181Q454 179 471 219Q477 251 446 277Q408 300 367 274Q346 261 344 236Z" fill="#fffdf5" stroke="#31565a" stroke-width="5"/>
+    <path d="M378 218Q405 197 444 211Q423 244 383 252Q367 246 378 218Z" fill="#dce8df"/>
+    <path d="M430 210Q469 223 509 281Q484 298 456 272Q436 248 414 234Z" fill="#fffdf5" stroke="#31565a" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M500 276q10 2 15 15" fill="none" stroke="#e9a83d" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M384 201Q374 170 394 146Q406 130 429 134Q453 139 455 161Q456 183 435 194Q411 207 384 201Z" fill="#fffdf5" stroke="#31565a" stroke-width="5"/>
+    <path d="M444 157Q509 145 584 157Q556 175 482 180Q457 177 444 169Z" fill="#e66b45" stroke="#31565a" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M447 168Q500 174 566 166Q544 213 500 217Q466 211 447 168Z" fill="#f4a15f" stroke="#31565a" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="433" cy="151" r="5.5" fill="#31565a"/>
+    <circle cx="435" cy="149" r="1.7" fill="#fff"/>
+
+    <path d="M386 133q16-23 42-19 21 3 30 20l-72 3Z" fill="#3f9d91" stroke="#31565a" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M414 111v-12m20 15 7-11" stroke="#f6c85f" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#31565a" opacity=".75">
+    <circle cx="116" cy="470" r="4"/><circle cx="148" cy="482" r="3"/><circle cx="671" cy="480" r="4"/><circle cx="704" cy="465" r="3"/>
+  </g>
+</svg>
