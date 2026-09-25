@@ -1,0 +1,3 @@
+Model: Qwen3.8-27b-mtp
+Token used: 270000
+Time Spend: 5m15s

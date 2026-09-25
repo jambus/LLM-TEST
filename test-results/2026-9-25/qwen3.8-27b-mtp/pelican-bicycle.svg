@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <title>骑自行车的鹈鹕</title>
+
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#E0F2FE"/>
+  <circle cx="690" cy="90" r="45" fill="#FDE047"/>
+  <g fill="#FFFFFF" opacity="0.9">
+    <ellipse cx="150" cy="100" rx="50" ry="20"/>
+    <ellipse cx="195" cy="88" rx="40" ry="18"/>
+    <ellipse cx="110" cy="88" rx="35" ry="15"/>
+    <ellipse cx="560" cy="70" rx="45" ry="18"/>
+    <ellipse cx="600" cy="58" rx="35" ry="15"/>
+  </g>
+  <rect y="530" width="800" height="70" fill="#86EFAC"/>
+  <line x1="0" y1="530" x2="800" y2="530" stroke="#4ADE80" stroke-width="4"/>
+
+  <!-- 速度线 -->
+  <g stroke="#93C5FD" stroke-width="6" stroke-linecap="round">
+    <line x1="55" y1="380" x2="140" y2="380"/>
+    <line x1="35" y1="420" x2="125" y2="420"/>
+    <line x1="60" y1="460" x2="145" y2="460"/>
+  </g>
+
+  <!-- 自行车 -->
+  <g>
+    <!-- 车轮 -->
+    <g stroke="#374151" stroke-width="6" fill="none">
+      <circle cx="250" cy="450" r="80"/>
+      <circle cx="550" cy="450" r="80"/>
+    </g>
+    <g stroke="#9CA3AF" stroke-width="2">
+      <line x1="170" y1="450" x2="330" y2="450"/>
+      <line x1="250" y1="370" x2="250" y2="530"/>
+      <line x1="193" y1="393" x2="307" y2="507"/>
+      <line x1="193" y1="507" x2="307" y2="393"/>
+      <line x1="470" y1="450" x2="630" y2="450"/>
+      <line x1="550" y1="370" x2="550" y2="530"/>
+      <line x1="493" y1="393" x2="607" y2="507"/>
+      <line x1="493" y1="507" x2="607" y2="393"/>
+    </g>
+    <circle cx="250" cy="450" r="8" fill="#6B7280"/>
+    <circle cx="550" cy="450" r="8" fill="#6B7280"/>
+
+    <!-- 车架 -->
+    <g stroke="#DC2626" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 250 450 L 320 310 L 390 450 Z"/>
+      <path d="M 320 310 L 520 300"/>
+      <path d="M 390 450 L 520 300"/>
+      <path d="M 520 300 L 550 450"/>
+      <path d="M 520 300 L 514 266"/>
+    </g>
+
+    <!-- 车把 -->
+    <path d="M 494 266 Q 514 250 534 266" stroke="#1F2937" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+    <!-- 车座 -->
+    <line x1="320" y1="310" x2="318" y2="292" stroke="#1F2937" stroke-width="6"/>
+    <line x1="294" y1="290" x2="346" y2="290" stroke="#1F2937" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- 曲柄与脚踏 -->
+    <circle cx="390" cy="450" r="18" fill="#6B7280"/>
+    <line x1="390" y1="450" x2="420" y2="476" stroke="#374151" stroke-width="6"/>
+    <line x1="390" y1="450" x2="360" y2="424" stroke="#374151" stroke-width="6"/>
+    <rect x="406" y="472" width="30" height="8" rx="3" fill="#1F2937"/>
+    <rect x="344" y="420" width="30" height="8" rx="3" fill="#1F2937"/>
+  </g>
+
+  <!-- 鹈鹕 -->
+  <g>
+    <!-- 腿 -->
+    <g stroke="#F59E0B" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 330 272 L 352 365 L 358 418"/>
+      <path d="M 352 272 L 405 375 L 420 470"/>
+    </g>
+    <!-- 蹼足 -->
+    <ellipse cx="358" cy="420" rx="15" ry="6" fill="#F59E0B"/>
+    <ellipse cx="421" cy="472" rx="15" ry="6" fill="#F59E0B"/>
+
+    <!-- 尾巴 -->
+    <path d="M 265 205 L 228 190 L 254 222 L 222 218 L 258 242 L 232 250 L 268 240 Z"
+          fill="#FFFFFF" stroke="#9CA3AF" stroke-width="3" stroke-linejoin="round"/>
+
+    <!-- 身体 -->
+    <ellipse cx="330" cy="225" rx="75" ry="60" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="4"/>
+
+    <!-- 翅膀 -->
+    <ellipse cx="305" cy="228" rx="48" ry="32" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="3"
+             transform="rotate(-15 305 228)"/>
+
+    <!-- 脖子 -->
+    <line x1="372" y1="185" x2="425" y2="132" stroke="#9CA3AF" stroke-width="40" stroke-linecap="round"/>
+    <line x1="372" y1="185" x2="425" y2="132" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round"/>
+
+    <!-- 头 -->
+    <circle cx="430" cy="125" r="33" fill="#FFFFFF" stroke="#9CA3AF" stroke-width="4"/>
+
+    <!-- 喉囊 -->
+    <path d="M 452 135 L 590 128 Q 500 215 452 135 Z"
+          fill="#F97316" stroke="#EA580C" stroke-width="3" stroke-linejoin="round"/>
+    <!-- 上喙 -->
+    <path d="M 450 108 L 590 128 L 452 135 Z"
+          fill="#F59E0B" stroke="#EA580C" stroke-width="3" stroke-linejoin="round"/>
+
+    <!-- 眼睛 -->
+    <circle cx="435" cy="115" r="5" fill="#1F2937"/>
+    <circle cx="437" cy="113" r="1.5" fill="#FFFFFF"/>
+  </g>
+</svg>
