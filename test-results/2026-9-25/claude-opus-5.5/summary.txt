@@ -1,0 +1,5 @@
+Model: Claude Opus 5.5
+Thinking Effort: High
+
+Token used: 41 credits
+Time Spend: 2m11s
