@@ -1,0 +1,5 @@
+Model: GPT-6 Sol
+Thinking Effort: High
+
+Token used: 1.1 credits
+Time Spend: 2m46s

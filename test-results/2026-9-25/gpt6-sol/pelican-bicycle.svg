@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 640" role="img" aria-labelledby="title description">
+  <title id="title">骑自行车的鹈鹕</title>
+  <desc id="description">一只奶油色鹈鹕握着车把，橘色的脚踩着踏板，骑着青绿色的自行车向前行驶。</desc>
+  <defs>
+    <g id="wheel">
+      <circle r="100" fill="#fffdf6" stroke="#254c4f" stroke-width="8"/>
+      <circle r="88" fill="none" stroke="#8dc9c2" stroke-width="4"/>
+      <g fill="none" stroke="#96bdb7" stroke-width="2.5">
+        <path d="M-88 0H88M0-88V88M-62-62 62 62M62-62-62 62"/>
+        <path d="M-34-81 34 81M34-81-34 81M-81-34 81 34M81-34-81 34"/>
+      </g>
+      <circle r="13" fill="#f6ad62" stroke="#254c4f" stroke-width="5"/>
+    </g>
+  </defs>
+
+  <g fill="none" stroke="#9ccbc5" stroke-linecap="round" opacity=".75">
+    <path d="M91 389h52M106 411h29M75 437h43" stroke-width="6"/>
+    <path d="M771 338h36M787 356h57" stroke-width="5"/>
+  </g>
+  <g fill="#b8d9d1" opacity=".5">
+    <ellipse cx="225" cy="564" rx="94" ry="10"/>
+    <ellipse cx="725" cy="564" rx="94" ry="10"/>
+  </g>
+
+  <use xlink:href="#wheel" transform="translate(225 456)"/>
+  <use xlink:href="#wheel" transform="translate(725 456)"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M226 456 385 326 454 456H226M385 326H571L454 456M571 326 725 456" stroke="#254c4f" stroke-width="19"/>
+    <path d="M226 456 385 326 454 456H226M385 326H571L454 456M571 326 725 456" stroke="#399c98" stroke-width="11"/>
+    <path d="M385 326 392 301M571 326 559 278" stroke="#254c4f" stroke-width="13"/>
+    <path d="M571 326 559 278" stroke="#399c98" stroke-width="6"/>
+    <path d="M559 278 553 250 Q584 238 606 252 L614 268" stroke="#254c4f" stroke-width="11"/>
+    <path d="M559 278 553 250 Q584 238 606 252 L614 268" stroke="#399c98" stroke-width="5"/>
+  </g>
+  <path d="M354 307 Q384 294 428 308 Q435 313 427 320 Q398 326 364 321 Q349 319 354 307Z" fill="#e88569" stroke="#254c4f" stroke-width="5" stroke-linejoin="round"/>
+
+  <g fill="none" stroke="#e89255" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M393 295 Q358 348 397 391 L422 426"/>
+    <path d="M437 294 Q459 349 452 387 Q451 414 485 481"/>
+  </g>
+  <g fill="none" stroke="#254c4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M393 295 Q358 348 397 391 L422 426"/>
+    <path d="M437 294 Q459 349 452 387 Q451 414 485 481"/>
+  </g>
+  <path d="M406 423 Q428 413 451 429 Q453 440 443 444 L410 443 Q398 440 406 423Z" fill="#f5ae66" stroke="#254c4f" stroke-width="5"/>
+  <path d="M470 474 Q494 469 512 486 Q513 497 502 500 L472 496 Q462 490 470 474Z" fill="#f5ae66" stroke="#254c4f" stroke-width="5"/>
+
+  <path d="M454 456 423 426M454 456 485 481" fill="none" stroke="#254c4f" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="454" cy="456" r="29" fill="#fff7db" stroke="#254c4f" stroke-width="7"/>
+  <circle cx="454" cy="456" r="9" fill="#e89c63" stroke="#254c4f" stroke-width="4"/>
+  <g fill="#254c4f">
+    <rect x="405" y="419" width="49" height="11" rx="5" transform="rotate(8 429 424)"/>
+    <rect x="472" y="484" width="50" height="11" rx="5" transform="rotate(8 497 489)"/>
+  </g>
+
+  <path d="M450 228 Q485 199 486 151 Q490 111 519 96 Q558 76 585 100 Q605 115 603 136 Q601 151 582 155 Q556 160 541 141 Q538 193 518 237Z" fill="#fff7df" stroke="#254c4f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M333 216 Q344 169 392 167 Q445 165 474 203 Q489 221 498 247 Q510 280 489 309 Q472 332 434 329 Q383 331 352 294 Q324 261 333 216Z" fill="#fff7df" stroke="#254c4f" stroke-width="6"/>
+  <path d="M356 281 Q382 313 435 311" fill="none" stroke="#eadfbc" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M605 158 Q661 181 745 169 Q747 212 712 245 Q694 264 669 259 Q628 253 614 208Z" fill="#f6a574" stroke="#254c4f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M629 190 Q651 244 683 244" fill="none" stroke="#df825d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M585 143 Q684 130 769 145 Q788 148 785 157 Q782 166 762 169 Q676 181 588 158Z" fill="#ffc36f" stroke="#254c4f" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M610 153 Q684 148 745 152" fill="none" stroke="#fce0a0" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="569" cy="120" r="8" fill="#254c4f"/>
+  <circle cx="572" cy="117" r="2.5" fill="#fffdf6"/>
+  <circle cx="612" cy="146" r="2.5" fill="#bd744a"/>
+  <path d="M537 98q-6-14 1-22m9 19q2-15 12-20" fill="none" stroke="#254c4f" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M375 196 Q417 189 455 213 Q485 232 511 250 Q548 265 590 253 L613 257 Q626 263 618 276 Q604 285 585 279 Q545 283 509 269 Q480 300 441 294 Q394 289 378 252 Q369 227 375 196Z" fill="#d6e8d8" stroke="#254c4f" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="none" stroke="#9fc5b6" stroke-width="5" stroke-linecap="round">
+    <path d="M395 218 Q435 242 480 266"/>
+    <path d="M390 238 Q422 265 462 276"/>
+    <path d="M526 260 Q554 269 575 267"/>
+  </g>
+  <path d="M594 258q14-8 25 0m-25 15q12 7 24 0" fill="none" stroke="#254c4f" stroke-width="4" stroke-linecap="round"/>
+</svg>
