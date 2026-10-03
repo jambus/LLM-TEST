@@ -1,5 +1,7 @@
 Model: GPT-6 Astra
 Thinking Effort: High
+IDE: Visual Studio Code
+Supplier: Github Coploit
 
 Token used: 102.3 credits
 Time Spend: 3m13s

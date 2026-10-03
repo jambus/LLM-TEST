@@ -1,5 +1,8 @@
 Model: Gemini 3.8 Flash
 Thinking Effort: High
+IDE: Antigravity
+Supplier: Google Pro Plan
+
 Token used: 10 credits
 Time Spend: 2m41s
 

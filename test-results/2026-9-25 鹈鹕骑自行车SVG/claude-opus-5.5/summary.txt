@@ -1,5 +1,7 @@
 Model: Claude Opus 5.5
 Thinking Effort: High
+IDE: Visual Studio Code
+Supplier: Github Coploit
 
 Token used: 41 credits
 Time Spend: 2m11s

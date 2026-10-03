@@ -1,5 +1,7 @@
 Model: GPT-6 Sol
 Thinking Effort: High
+IDE: Visual Studio Code
+Supplier: Github Coploit
 
 Token used: 1.1 credits
 Time Spend: 2m46s

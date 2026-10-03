@@ -1,5 +1,7 @@
 Model: GPT-6 Luna
 Thinking Effort: High
+IDE: Visual Studio Code
+Supplier: Github Coploit
 
 Token used: 0.8 credits
 Time Spend: 57s
